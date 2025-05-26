@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kifayat-en&label=Profile%20views&color=0e75b6&style=flat" alt="kifayat-en" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kifayat-en" alt="kifayat-en" /></a> </p>
-
 - 🌱 I’m currently learning **PyTorch, Flask**
+
+- 💬 Ask me about **ML @ DL**
 
 - 📫 How to reach me **kifayatullahop@gmail.com**
 
