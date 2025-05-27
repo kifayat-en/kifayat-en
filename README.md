@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kifayat Ullah</h1>
 <h3 align="center">A passionate ML & Deep Learning</h3>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="400", alt="Coding", border-radius: 40px>
+<img align="right" src="https://cdn-icons-gif.flaticon.com/11184/11184160.gif" width="400", alt="Coding", border-radius: 40px>
 
 
 
