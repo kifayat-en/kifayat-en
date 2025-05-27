@@ -1,10 +1,10 @@
-[![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](github.com/kifayat-en)
+
 <h1 align="center">Hi 👋, I'm Kifayat Ullah</h1>
 <h3 align="center">A passionate ML & Deep Learning</h3>
-<img align="right" src="https://cdn.dribbble.com/userupload/22704188/file/original-8c6ff4b8ecd3bca6c6698982b65c392c.gif" width="400", alt="Coding", border-radius: 40px>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" width="400", alt="Coding", border-radius: 40px>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kifayat-en&label=Profile%20views&color=0e75b6&style=flat" alt="kifayat-en" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
