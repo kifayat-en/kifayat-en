@@ -2,7 +2,7 @@
 🔭 I’m currently working on - Data Science & Machine Learning.<br>🌱 I’m currently learning - GenAi & Agentic Ai<br>💬 Ask me about Python, ML @ DL<br>📫 How to reach me kifayatullahop@gmail.com<br>😄 Happy Learning.
 
 
-## 🌐 Socials:
+## 🌐 Socials:  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kifayatullahop@gmail.com) 
 
 # 💻 Tech Stack:
